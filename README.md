@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I'm Mahin.
+- 🌱 I’m currently learning new technologies.
+- 📫 You can reach me: sbzm.mahin@gmail.com
 
 <!--
 **SharifMahin/SharifMahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
