@@ -1,6 +1,13 @@
 # MD SHARIF MULLA MAHIN - Cloud Engineer ☁️  
 Hello! I'm **MD Sharif Mulla Mahin**, a passionate Cloud Engineer based in Tokyo, Japan 🇯🇵.
-I specialize in building, deploying, and managing scalable cloud infrastructure with modern DevOps practices.
+I specialize in building, deploying, and managing scalable cloud infrastructure with modern DevOps practices.  
+📧 Reach me at: sbzm.mahin@gmail.com
+
+
+##  TECHNOLOGIES AND LANGUAGES
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,powershell,git,github,githubactions,c,cpp,java,spring,js,nodejs,express,react,python,django,php,mysql,mongodb,postgres" />
+</p>
 
 
 ## 🏆 CERTIFICATIONS
