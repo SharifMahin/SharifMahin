@@ -14,6 +14,7 @@ I specialize in building, deploying, and managing scalable cloud infrastructure 
 📜 Certification links are embedded in the badge
 ### Microsoft Azure
 <p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SharifMahin-3987/D7BF8AA57DCFF040?sharingId=7494EF6C2B8B04EA" target="_blank"><img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="120"></a>  
   <a href="https://learn.microsoft.com/en-us/users/sharifmahin-3987/credentials/918be4798ede2179" target="_blank"><img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="120"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SharifMahin-3987/E22CCC809FF3D68E" target="_blank"><img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="120"></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SharifMahin-3987/5139B004BBACF0B8" target="_blank"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120"></a>
