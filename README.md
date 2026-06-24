@@ -38,7 +38,7 @@ I specialize in building, deploying, and managing scalable cloud infrastructure 
 
 ## 🤝 CONNECT WITH ME
 <p align="left">
-<a href="https://linkedin.com/in/sharif-mulla-mahin-1955861a2" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/md-sharif-mulla-mahin-1955861a2/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
 
