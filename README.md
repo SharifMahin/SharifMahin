@@ -1,7 +1,7 @@
 # MD SHARIF MULLA MAHIN - Cloud Engineer ☁️  
 Hello! I'm **MD Sharif Mulla Mahin**, a passionate Cloud Engineer based in Tokyo, Japan 🇯🇵.
 I specialize in building, deploying, and managing scalable cloud infrastructure with modern DevOps practices.  
-📧 Reach me at: sbzm.mahin@gmail.com
+📧 Reach me at: sharifmulla.mahin@gmail.com
 
 
 ##  TECHNOLOGIES AND LANGUAGES
@@ -28,6 +28,13 @@ I specialize in building, deploying, and managing scalable cloud infrastructure 
   </a>
 </p>
 
+### IBM
+<p align="left">
+  <a href="https://www.credly.com/badges/384ea61f-9667-471f-b61b-0a35702a0a96/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" width="120"/>
+  </a>
+</p>
+
 ### GitHub
 <p align="left">
   <a href="https://www.credly.com/badges/1e687075-199b-4073-93ef-d704c03ba665" target="_blank">
@@ -38,7 +45,12 @@ I specialize in building, deploying, and managing scalable cloud infrastructure 
 
 ## 🤝 CONNECT WITH ME
 <p align="left">
-<a href="https://www.linkedin.com/in/md-sharif-mulla-mahin-1955861a2/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://sharifmahin.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/globe.png" width="48" alt="Portfolio Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-sharif-mulla-mahin-1955861a2/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 
